@@ -86,7 +86,7 @@ When you create a production or sandbox environment with a Dataverse database, y
 
 Currently, if you don't select **Yes** for **Enable Dynamics 365 apps** when you create a database, you can't make this change later or install Dynamics 365 apps on this environment. However, you need a Dynamics 365 license to select **Yes** for **Enable Dynamics 365 apps**.
 
-Foe more information about Dataverse, see [What is Dataverse?](/power-apps/maker/data-platform/data-platform-intro) and [Why choose Dataverse?](/power-apps/maker/data-platform/why-dataverse-overview)
+For more information about Dataverse, see [What is Dataverse?](/power-apps/maker/data-platform/data-platform-intro) and [Why choose Dataverse?](/power-apps/maker/data-platform/why-dataverse-overview)
 
 #### Why create an environment without a database?
 
